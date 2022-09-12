@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hey Whats'up ✌️, I'm Carlos Kaique!</h1>
-<p>I'm 17 years old, I've always been fascinated by technology, always looking for why and how things behind the screens work, I'm currently studying in a Technical School in the High School course with Professional Qualification of Systems Development Technician.</p>
+<p>I'm 17 years old, I've always been fascinated by technology, always looking for why and how things behind the screens work, I'm currently studying in a Technical School in the High School course with Professional Qualification of Systems Development Technician.<br>My main focus is the frontend</p>
 </div>
 <br>
 
@@ -18,5 +18,9 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="src/icons/sass.svg" width="40" height="40" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="src/icons/bootstrap.svg" width="40" height="40" alt="Bootstrap" /></a>
 
+<br>
+<h3>Studying</h3>
+<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="src/icons/typescript.svg" width="40" height="40" alt="Typescript"></a>
+<a href="https://nodejs.org/en/" rel="nofollow"><img src="src/icons/nodejs.svg width="40" height="40" alt="NodeJS"></a>
 </div>
 </main>
