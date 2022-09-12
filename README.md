@@ -21,6 +21,6 @@
 <br>
 <h3>Studying</h3>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="src/icons/typescript.svg" width="40" height="40" alt="Typescript"></a>
-<a href="https://nodejs.org/en/" rel="nofollow"><img src="src/icons/nodejs.svg width="40" height="40" alt="NodeJS"></a>
+<a href="https://nodejs.org/en/" rel="nofollow"><img src="src/icons/nodejs.svg" width="40" height="40" alt="NodeJS"></a>
 </div>
 </main>
