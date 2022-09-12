@@ -12,7 +12,7 @@
 
 <div align="center">
   
-:earth_americas: I'm based in Tatuí-SP <br>
+:earth_americas: Tatuí-SP <br>
 :computer: I'm currently studying at [Etec Salles Gomes](https://www.cps.sp.gov.br/etecs/etec-salles-gomes/) <br>
 :envelope: You can contact me at [kaike1065@outlook.com](mailto:kaike1065@outlook.com)<br>
   
