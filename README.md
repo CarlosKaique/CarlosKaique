@@ -12,9 +12,9 @@
 
 <div align="center">
   
-:earth_americas: Tatuí-SP <br>
 :computer: I'm currently studying at [Etec Salles Gomes](https://www.cps.sp.gov.br/etecs/etec-salles-gomes/) <br>
 :envelope: You can contact me at [kaike1065@outlook.com](mailto:kaike1065@outlook.com)<br>
+:earth_americas: Tatuí-SP <br>
   
 <h3>Skills</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="src/icons/html5.svg" width="40" height="40" alt="HTML5" />
