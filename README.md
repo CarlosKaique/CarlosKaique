@@ -32,6 +32,7 @@
 <a href="https://www.mysql.com" rel="nofollow"><img src="src/icons/currentlyStudying/mysql.svg" width="40" height="40" alt="Mysql"></a>
 <br>
 <br>
+<br>
 <h3>Familiarity</h3>
 <img src="src/icons/familiarity/windows.svg" width="40" height="40" alt="Windows">
 <img src="src/icons/familiarity/github.svg" width="40" height="40" alt="GitHub">
