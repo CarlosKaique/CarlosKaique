@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hey Whats'up ✌️, I'm Carlos Kaique!</h1>
-<p>I'm 17 years old, I've always been fascinated by technology, always looking for why and how things behind the screens work, I'm currently studying in a Technical School in the High School course with Professional Qualification of Systems Development Technician.<br>My main focus is the Front-End.</p>
+<h1 align="center">Welcome to my Github profile I'm Carlos Kaique :wave:</h1>
+<p>I've always been fascinated by technology, always looking for why and how things behind the screens work, I'm currently studying in a Technical School in the High School course with Professional Qualification of Systems Development Technician.<br>My main focus is the Front-End.</p>
 </div>
 <br>
 
@@ -14,6 +14,7 @@
   
 :computer: I'm currently studying at [Etec Salles Gomes](https://www.cps.sp.gov.br/etecs/etec-salles-gomes/) <br>
 :mailbox:	 You can contact me at [kaike1065@outlook.com](mailto:kaike1065@outlook.com)<br>
+:eyes: interested in technologys that helps me solve problems <br>
 :zap: Fun Fact: ***Never Give Up*** <br>
   
 <h3>Skills</h3>
