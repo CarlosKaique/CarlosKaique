@@ -27,9 +27,9 @@
 <br>
 <br>
 <h3>Currently Studying</h3>
-<a href="https://www.php.net/" rel="nofollow"><img src="src/icons/currentlyStudying/php.svg" width="40" height="40" alt="PHP"></a>
-<a href="https://www.mysql.com" rel="nofollow"><img src="src/icons/currentlyStudying/mysql.svg" width="40" height="40" alt="Mysql"></a>
 <a href="https://nextjs.org/" rel="nofollow"><img src="src/icons/currentlyStudying/next.svg" width="40" height="40" alt="NextJs"></a>
+<a href="https://www.mysql.com" rel="nofollow"><img src="src/icons/currentlyStudying/mysql.svg" width="40" height="40" alt="Mysql"></a>
+<a href="https://www.php.net/" rel="nofollow"><img src="src/icons/currentlyStudying/php.svg" width="40" height="40" alt="PHP"></a>
 <br>
 <br>
 <br>
