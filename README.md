@@ -23,7 +23,7 @@
 <a href="https://nodejs.org/en/" rel="nofollow"><img src="src/icons/currentlyStudying/nodejs.svg" width="40" height="40" alt="NodeJS"></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="src/icons/skills/react.svg" width="40" height="40" alt="React" /></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="src/icons/skills/typescript.svg" width="40" height="40" alt="Typescript"></a>
-<a href="https://tailwindui.com/" rel="nofollow"><img src="src/icons/skills/tailwind.svg" width="40" height="40" alt="Tailwind"></a>
+<a href="https://tailwindui.com/" rel="nofollow"><img src="src/icons/skills/tailwind.png" width="40" height="40" alt="Tailwind"></a>
 <br>
 <br>
 <h3>Currently Studying</h3>
